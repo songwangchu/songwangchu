@@ -1,0 +1,17 @@
+关于centos 如何安装Jenkins，和 jenkins 如何自动化部署php项目
+
+
+centos7 安装 Jenkins 
+https://www.cnblogs.com/djlsunshine/p/10249135.html
+
+Jenkins 部署php项目
+https://blog.csdn.net/weixin_42480196/article/details/103155479
+
+jenkins部署任务提示“Host key verification failed.”
+https://blog.csdn.net/weixin_43557605/article/details/103804426
+
+
+<!---
+songwangchu/songwangchu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
